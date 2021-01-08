@@ -1,6 +1,10 @@
 # Vitaran 
 ![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fvitaran.netlify.app%2F)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Majestic-C0ders/EY_Techathon)
+
+## VISUALIZATION USING TABLEAU
+![Priority Distribution using Unsupervised Machine Learning](https://public.tableau.com/profile/ankur3446#!/vizhome/COVIDCLUSTERSFORVACCINATIONPRIORITY/5Clusterdashboard)
+![State Wise Analystics](https://public.tableau.com/profile/ankur3446#!/vizhome/Statewiseanalysis_16097465049390/ComparisiononActivevsRecoveredCases)
 ## Prioritize vaccine delivery using AI/ML
 
 ### Problem Statement
